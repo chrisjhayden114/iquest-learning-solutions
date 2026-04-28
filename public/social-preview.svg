@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="i:Quest Learning Solutions social preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#e2e8f0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="70" y="70" width="1060" height="490" rx="24" fill="#ffffff" stroke="#cbd5e1" />
+  <text x="120" y="205" fill="#0f172a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="600">
+    i:Quest Learning Solutions
+  </text>
+  <text x="120" y="280" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34">
+    Making implementation clear, visible,
+  </text>
+  <text x="120" y="330" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34">
+    and continuously improvable.
+  </text>
+  <text x="120" y="430" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">
+    Research-informed. AI-supported. Built for implementation quality.
+  </text>
+</svg>
