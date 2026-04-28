@@ -1,5 +1,5 @@
 services:
-  - type: static_site
+  - type: static
     name: iquest-learning-solutions
     env: static
     buildCommand: npm ci && npm run build
