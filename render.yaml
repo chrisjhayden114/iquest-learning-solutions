@@ -1,7 +1,7 @@
 services:
-  - type: static
+  - type: web
     name: iquest-learning-solutions
-    env: static
+    runtime: static
     buildCommand: npm ci && npm run build
     staticPublishPath: dist
     pullRequestPreviewsEnabled: true
